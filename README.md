@@ -14,4 +14,4 @@ I'm always looking for effective and unique solutions to problems.  If something
 I'm now available for work and partnership opportunities!  If you'd like to connect, please visit my [portfolio](https://daxen.studio/) to learn more about myself and my projects.
 
 ##  What’s Next?
-Looking ahead, I intend to take on larger, more ambitious projects, eventually launching my own firm.  I'm enthusiastic to keep pushing my limitations, trying new things, and developing as a developer.
+Looking forward, I intend to take on larger, more ambitious projects, eventually launching my own firm.  I'm enthusiastic to keep pushing my limitations, trying new things, and creating as a developer.
