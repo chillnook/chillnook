@@ -1,17 +1,17 @@
-# Welcome to ChillNook's GitHub! 🌟
+# Welcome to Daxen's GitHub! 🌟
 
-Hey there! 👋 I’m Daxen, also known as ChillNook. I’m a 17-year-old developer from Canada with a passion for creating and problem-solving. Whether it’s crafting unique experiences, building tools, or working on mods, I find joy in bringing ideas to life.
+Hi there! 👋  I am Daxen, commonly known as daxen.studio or DaxenDev.  I'm a 17-year-old developer from Canada who enjoys creating and problem solving.  I enjoy bringing ideas to life, whether it's via creating one-of-a-kind experiences, designing tools, or developing mods.
 
-## 👤 About Me
-My programming journey started in 2016 when I began experimenting with Pocket Code, a mobile platform similar to Scratch. Since then, I’ve explored a wide range of development areas, including game design, web programming, modding, and automation. I enjoy working with languages like Lua, C#, C++, Java, and JavaScript, and I’m always striving to learn more.
+##  About Me
+My programming experience began in 2016 when I experimented with Pocket Code, a mobile platform comparable to Scratch.  Since then, I've experimented with a variety of development techniques, including game design, web programming, modding, and automation.  I enjoy working with languages such as Lua, C#, C++, Java, and JavaScript, and I am constantly looking to learn more.
 
-While I’ve developed on platforms like Roblox—where I’ve built projects such as Summer Hotels, Sword Fight Simulator, and Party Games—I’ve also worked on standalone projects. One of my favorites is the Uber Driver Mod for GTA 5, which gained recognition in the gaming community and led to some exciting collaborations.
+While I've worked on platforms like Roblox, where I created projects like Summer Hotels, Sword Fight Simulator, and Party Games, I've also worked on my own projects.  One of my favorites is the Uber Driver Mod for GTA 5, which garnered popularity within the gaming community and sparked some great collaborations.
 
-## 💡 My Approach
-I’m always seeking efficient and innovative solutions to challenges. If something isn’t quite right, I’m willing to rework it until it meets my standards. Outside of programming, I have a strong passion for creating music, working on mechanical projects, and tackling hands-on tasks like fixing and improving things.
+##  My Approach
+I'm always looking for effective and unique solutions to problems.  If something isn't quite right, I'm willing to revise it until it fits my expectations.  Outside of programming, I enjoy making music, working on mechanical projects, and doing hands-on jobs such as fixing and enhancing things.
 
-## 🤝 Open to Work
-I’m currently open to work and collaboration opportunities! If you’d like to connect, feel free to check out my [portfolio](https://chillnook.github.io/) for more information about me and my projects.
+##  Open to Work
+I'm now available for work and partnership opportunities!  If you'd like to connect, please visit my [portfolio](https://daxen.studio/) to learn more about myself and my projects.
 
-## 🚀 What’s Next?
-Looking ahead, I’m planning to take on bigger, more ambitious projects and eventually start my own business. I’m excited to continue pushing my limits, exploring new ideas, and growing as a developer.
+##  What’s Next?
+Looking ahead, I intend to take on larger, more ambitious projects, eventually launching my own firm.  I'm enthusiastic to keep pushing my limitations, trying new things, and developing as a developer.
